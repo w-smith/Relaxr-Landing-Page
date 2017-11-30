@@ -35,7 +35,7 @@ nav{
 
 }
 
-.now {
+#now {
 	text-align: center;
 	font-size: 14px;
 	border-radius: 5px;
@@ -94,7 +94,7 @@ ul {
 	
 }
 
-.signup {
+#signup {
 	background: #033048;
 	font-weight: 800;
 	font-size: 12px;
